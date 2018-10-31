@@ -34,11 +34,12 @@ designed and implemented an electronic health record integration
 microservice in Golang.  Then I co-designed and implemented a mobile
 application written in React Native.  I architected and implemented a
 real time communication websocket server in Golang, for which I wrote a
-JavaScript client.  I architected and worked with a team of developers
-to create a medical video-chat application using Twilio Video, RxJS,
-React and Redux, which also integrated media streams coming from
-medical devices.  I set up continuous integration for this project using
-Travis CI.
+JavaScript client.  I architected and implemented a prototype medical
+video-chat application using Twilio Video, RxJS, React and Redux, which
+also integrated media streams coming from medical devices.  I
+interviewed and trained two junior developers, onboarding them to this
+project, which we built to completion.  I set up continuous integration
+for this project using Travis CI.
 
 #### Work Institute, Junior Full-Stack Developer
 _October 2015 - July 2016_
@@ -46,7 +47,8 @@ _October 2015 - July 2016_
 The epic task was to progressively replace a legacy system.  Primarily,
 I worked on an ETL application to translate data in various formats from
 clients into the format of Work Institute's database schema.  This
-included creating a UI to create the translation map.  I set up
+included creating a UI to create the translation map and creating
+standards for the format of incoming data from clients.  I set up
 continuous integration / continuous deployment to a test server.  The
 application was deployed for production to a Windows server using IIS.
 I also recruited, onboarded and mentored a junior developer.
