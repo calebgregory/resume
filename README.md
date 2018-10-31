@@ -41,7 +41,7 @@ medical devices.  I set up continuous integration for this project using
 Travis CI.
 
 #### Work Institute, Junior Full-Stack Developer
-_September 2015 - July 2016_
+_October 2015 - July 2016_
 
 The epic task was to progressively replace a legacy system.  Primarily,
 I worked on an ETL application to translate data in various formats from
