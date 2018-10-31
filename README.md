@@ -21,10 +21,10 @@ calebgregory@gmail.com
 ### Work Experience
 
 #### Freelance Software Developer
-##### October 2018 - Present
+_October 2018 - Present_
 
 #### Satchel Health, Full-Stack Developer
-##### July 2016 - July 2018
+_July 2016 - July 2018_
 
 I came onboard to setup a testing suite for Satchel's main client-side
 application written in React and to take over front-end development.  I
@@ -41,7 +41,7 @@ medical devices.  I set up continuous integration for this project using
 Travis CI.
 
 #### Work Institute, Junior Full-Stack Developer
-##### September 2015 - July 2016
+_September 2015 - July 2016_
 
 The epic task was to progressively replace a legacy system.  Primarily,
 I worked on an ETL application to translate data in various formats from
