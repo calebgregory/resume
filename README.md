@@ -53,6 +53,8 @@ I also recruited, onboarded and mentored a junior developer.
 
 ### Education
 
-Major: Mathematics, Honors
-Belmont University, Graduated August 2012
-GPA: 3.5
+__Major__: Mathematics
+
+__Belmont University__, Graduated August 2012
+
+__GPA__: 3.5
