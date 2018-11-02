@@ -28,18 +28,20 @@ _July 2016 - July 2018_
 
 I came onboard to setup a testing suite for Satchel's main client-side
 application written in React and to take over front-end development.  I
-progressed to becoming the maintainer of an event-driven backend API,
+progressed to becoming the maintainer of an event-driven back-end API,
 written in Node.js using a proprietary event-sourcing library.  I
-designed and implemented an electronic health record integration
+designed and implemented an electronic health record system integration
 microservice in Golang.  Then I co-designed and implemented a mobile
 application written in React Native.  I architected and implemented a
-real time communication websocket server in Golang, for which I wrote a
-JavaScript client.  I architected and implemented a prototype medical
-video-chat application using Twilio Video, RxJS, React and Redux, which
-also integrated media streams coming from medical devices.  I
-interviewed and trained two junior developers, onboarding them to this
-project, which we built to completion.  I set up continuous integration
-for this project using Travis CI.
+real time communication websocket server in Golang.  I wrote a
+JavaScript client API for this and configured its infrastructure in AWS
+using Terraform.  I architected and implemented a prototype medical
+video chat application using the Chrome MediaStream API, Twilio Video,
+RxJS, React and Redux.  This chat integrated media streams coming from
+digital medical devices, patient intake data, and video.  I interviewed
+and trained two junior developers, onboarding them to this project,
+which we built to completion.  I set up continuous integration for this
+project using Travis CI and configured its deployment using Terraform.
 
 #### Work Institute, Junior Full-Stack Developer
 _October 2015 - July 2016_
@@ -47,11 +49,11 @@ _October 2015 - July 2016_
 The epic task was to progressively replace a legacy system.  Primarily,
 I worked on an ETL application to translate data in various formats from
 clients into the format of Work Institute's database schema.  This
-included creating a UI to create the translation map and creating
+included building a UI to create the translation map and setting
 standards for the format of incoming data from clients.  I set up
-continuous integration / continuous deployment to a test server.  The
-application was deployed for production to a Windows server using IIS.
-I also recruited, onboarded and mentored a junior developer.
+continuous integration / continuous deployment of this app to a test
+server.  In production, the application was deployed to a Windows server
+using IIS.  I also recruited, onboarded and mentored a junior developer.
 
 ### Education
 
