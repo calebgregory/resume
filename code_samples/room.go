@@ -4,7 +4,6 @@ package app
 // Rooms are managed by a RoomService
 
 import (
-	"fmt"
 	"log"
 	"runtime/debug"
 	"time"
